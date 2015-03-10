@@ -22,4 +22,8 @@ linea trampa
     public void metodoComunitario(){
 
     }
+public void testGitAux(){
+ // metodo rama testing
+System.out.println("Metodo de testing");
+ }
 }
