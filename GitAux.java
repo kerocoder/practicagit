@@ -12,6 +12,7 @@ public class GitAux {
     
     public void metodoAlumno1(){
         System.out.println("metodo 1");
+	System.out.println("Modificado por alumno1");
 linea trampa
     }
     
@@ -21,8 +22,14 @@ linea trampa
     }
     
     public void metodoComunitario(){
+
 //student 2 changes
 System.out.println("modified line by student 2")
+
+//cambios alumno 1
+	System.out.println("linea modificada por alumno 1");
+
+
     }
 public void testGitAux(){
  // metodo rama testing
