@@ -18,11 +18,17 @@ linea trampa
     
     public void metodoAlumno2(){
         System.out.println("method 666");
+	System.out.println("modified line by student 2")
     }
     
     public void metodoComunitario(){
+
+//student 2 changes
+System.out.println("modified line by student 2")
+
 //cambios alumno 1
 	System.out.println("linea modificada por alumno 1");
+
 
     }
 public void testGitAux(){
